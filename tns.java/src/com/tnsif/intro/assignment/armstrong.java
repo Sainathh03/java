@@ -1,6 +1,4 @@
 package com.tnsif.intro.assignment;
-
-
 import java.util.Scanner;
 
 public class armstrong {
@@ -22,4 +20,5 @@ public class armstrong {
 			System.out.println("The number is not armstrong");
 		}
 	}
+
 }
